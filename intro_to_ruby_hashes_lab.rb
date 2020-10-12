@@ -33,7 +33,7 @@ def monopoly_with_third_tier
         :shortline => {}
       },
       :rent_in_dollars => {
-        :one_piece => "25",
+        :one_piece_owned => 25,
         :two_peices_owned => 50,
         :three_pieces_owned => 100,
         :four_peices_owned => 200
